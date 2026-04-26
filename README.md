@@ -1,1 +1,1 @@
-# Loan-Eligibility-Prediction
+# Credit Risk Analysis & Prediction
