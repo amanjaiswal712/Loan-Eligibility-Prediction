@@ -109,3 +109,4 @@ Dissecting the models reveals the fundamental mathematical drivers of credit ris
 2. **Liquidity-Based Policy Revisions:** Enforce dramatically stricter underwriting standards, higher collateral requirements, or lower credit limits for applicants triggering the "little" checking account threshold.
 3. **Duration Risk Pricing:** Implement aggressive risk-based pricing models that attach progressively higher interest rate premiums to any loan extending beyond a 24-month horizon to offset compounding default probabilities.
 4. **Mandatory DTI Proxies:** Integrate the engineered `Credit_per_month` ratio into automated decision APIs, shifting focus from gross credit amounts to individualized monthly financial burden analysis.
+5. 
